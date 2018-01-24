@@ -3,7 +3,6 @@ package com.redredimano.coderswag.Controller
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v7.widget.LinearLayoutManager
-import com.redredimano.coderswag.Adapters.CategoryAdapter
 import com.redredimano.coderswag.Adapters.CategoryRecycleAdapter
 import com.redredimano.coderswag.R
 import com.redredimano.coderswag.Services.DataService
